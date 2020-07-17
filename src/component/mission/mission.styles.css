@@ -1,0 +1,61 @@
+.cont-texts p {
+    font-size: 15px;
+}
+.cont-texts h3 {
+    font-size: 29px;
+    padding: 10px 0px;
+}
+p.ital {
+    font-style: italic;
+    color: #54CF9D !important;
+}
+
+.for-radius{
+    width: 80px;
+    height: 80px;
+    background: #53d09e3d;
+    border-radius: 100%;
+    position: absolute;
+    top: -36px;
+    left: 39px;
+}
+.for-radius-food {
+    width: 70px;
+    height: 70px;
+    background: #ff6b7047;
+    border-radius: 100%;
+    position: absolute;
+    top: -26px;
+    left: 33px;
+}
+.for-radius-medicine {
+    width: 70px;
+    height: 70px;
+    background: #21d7d93b;
+    border-radius: 100%;
+    position: absolute;
+    top: -34px;
+    left: 26px;
+}
+.for-radius-books {
+    width: 70px;
+    height: 70px;
+    background: #ff000024;
+    border-radius: 100%;
+    position: absolute;
+    top: -23px;
+    left: 26px;
+}
+.conl {padding-top: 50px;}
+
+.container p {
+    color:#777;
+}
+.OurFaculity {
+    padding: 100px 0px !important;
+}
+@media only screen and (min-width:1200px){
+    .container{
+        max-width:1200px
+    }
+}

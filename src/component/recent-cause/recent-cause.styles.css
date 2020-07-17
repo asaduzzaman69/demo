@@ -1,0 +1,50 @@
+.cont-hold {
+    display: flex;
+    margin-top: 50px;
+    position: relative;
+}
+
+.cont-hold h5 {
+    font-size: 18px !important;
+    margin-left: 21px;
+    color: black;
+}
+.progress{
+ border-radius: 0;
+ overflow: visible;
+ background: #e6dcdc;
+ height: 13px;
+ border-radius: 20px;
+ position: relative;
+ width: 271px;
+ top: -21px;
+ left: 89px;
+ height: 3px;
+}
+.progress-bar{
+    background-color: #03b664;
+    text-align: right;
+    height: 3px;
+}
+
+
+.progress-bar.wow.slideInLeft span {
+    position: relative;
+    top: -16px;
+    left: 19px;
+    color: black;
+}
+.title.pro h5 {
+    font-size: 16px;
+    color: black;
+    position: relative;
+    top: -22px;
+    left: 100px;
+}
+.title.pro span {
+    margin: 0px 6px !important;
+}
+.cont-hold img{
+    width: 80px;
+    height: 80px;
+}

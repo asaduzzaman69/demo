@@ -1,0 +1,33 @@
+.btn-container button {
+    border: none;
+    width: 180px ;
+    height: 60px ;
+    outline: none;
+    border-radius: 48px;
+    margin-right: 20px;
+}
+.invitition{
+    background:#1e2436 ;
+}
+.marg p {
+    color: white;
+    padding: 14px 0px;
+}
+.dnt{
+    background: #ff6b70;
+}
+.join{
+    background: #3cc88f;
+}
+.invitition {
+    padding: 120px 10px;
+}
+.invt{
+    color: white;
+}
+
+
+
+
+
+

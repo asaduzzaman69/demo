@@ -1,0 +1,89 @@
+
+button.upcomProBtn {
+    border: none;
+    width: 170px;
+    height: 72px;
+    outline: none;
+    background: #efc940;
+    font-weight: bold;
+}
+.contain {
+    padding: 100px 0px;
+}
+
+.upcomingProject{
+    background-image: url('https://ibb.co/PmH9DfZ');
+    background-repeat: no-repeat;
+background-attachment: cover;    
+background-position: center;
+padding: 30px 0px;
+}
+.shad {
+    box-shadow: -2px 2px 359px -29px rgba(0, 0, 0, 0.1);
+    background: white;
+    /* padding: 23px; */
+}
+
+
+
+.upProjectContent h1 {
+    font-size: 40px;
+}
+
+.upProjectContent {
+    margin: 44px 10px;
+}
+
+.upProjectContent p {
+    padding: 27px 0px;
+}
+.img-con-upcomingPro{
+    position: relative;
+}
+.counter {
+    position: absolute;
+    top: 75%;
+    left: 14%;
+}
+
+.countd {
+    display: inline-block;
+}
+
+.countd span {
+    display: block;
+}
+
+.countd {
+    display: inline-block;
+    color: white;
+    font-size: 27px;
+    text-align: center;
+    padding-right: 21px;
+}
+.icon-con{
+    margin-top: 20px;
+}
+span.mar{
+    margin-right: 20px;
+}
+.list-c li {
+    list-style: none;
+}
+.list-c  li::before {
+    content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+    color: red; /* Change the color */
+    font-weight: bold; /* If you want it to be bold */
+    display: inline-block; /* Needed to add space between the bullet and the text */
+    width: 1em; /* Also needed for space (tweak if needed) */
+    margin-left: 10px; /* Also needed for space (tweak if needed) */
+  }
+  .underLine {
+    border: 1px solid #EFC940;
+}
+
+span.share-i {
+    position: relative;
+    top: -15px;
+    left: 50%;
+}

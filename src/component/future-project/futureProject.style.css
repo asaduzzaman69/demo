@@ -1,0 +1,43 @@
+.icon-con{
+    margin-top: 20px;
+}
+span.mar{
+    margin-right: 20px;
+}
+.list-c li {
+    list-style: none;
+}
+.list-c  li::before {
+    content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+    color: red; /* Change the color */
+    font-weight: bold; /* If you want it to be bold */
+    display: inline-block; /* Needed to add space between the bullet and the text */
+    width: 1em; /* Also needed for space (tweak if needed) */
+    margin-left: 10px; /* Also needed for space (tweak if needed) */
+  }
+  .underLine {
+    border: 1px solid #EFC940;
+}
+
+span.share-i {
+    position: relative;
+    top: -15px;
+    left: 50%;
+}
+
+.UpcomingProjDeatails{
+    margin-top: 100px;
+}
+.padd h1 {
+    padding-bottom: 25px;
+    font-family: 'Lobster', cursive;
+    letter-spacing: 9px;
+}
+.upcomingProject{
+background-image: url('https://res.cloudinary.com/dltd4gs4a/image/upload/v1593450028/purnoto/bg345435_bfeini.jpg');
+background-repeat: no-repeat;
+background-attachment: cover;    
+background-position: center;
+padding: 30px 0px;
+}
+

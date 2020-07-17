@@ -1,0 +1,61 @@
+.heart-back {
+    width: 30px;
+    height: 30px;
+    background: #e25a44;
+    display: inline-block;
+    position: relative;
+    top: 12px;
+    left: 24px;
+    border-radius: 100%;
+}
+
+span.heart {
+    top: 4px;
+    position: relative;
+    left: -3px;
+}
+
+span.heart svg {
+    color: white;
+}
+strong.blah {
+    position: relative;
+    left: 7px;
+}
+.border-rad {
+    width: 229px;
+    background: #fbf0dc;
+    height: 34px;
+    position: relative;
+    top: 44px;
+    left: 45.19%;
+    border-radius: 46px;
+}
+span.heart svg {
+    color: white;
+}
+.heart-cont h1 {
+    font-size: 50px;
+    margin-top: 25px;
+}
+span.pai {
+    background: #fbf0dc;
+    color:black;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 14px;
+    padding: 7px 21px 7px 0;
+    border-radius: 30px;
+}
+.pai svg {
+    font-size: 26px;
+    background: #e25a44;
+    color: white;
+    padding: 7px;
+    border-radius: 50%;
+    margin-right: 10px;
+    color: white;
+    position: relative;
+    top: 5px;
+    left: 3px;
+}

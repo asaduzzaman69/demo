@@ -1,0 +1,39 @@
+
+.post-img img {
+    position: relative;
+    top: 65px;
+    left: 15px;
+}
+.post-img{
+    overflow: hidden;
+}
+.post-progress h1 {
+    color: black;
+    font-size: 30px;
+    margin: 4px 0px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.post-progress p {
+    font-size: 15px;
+    font-weight: normal;
+    font-family:"Rubik", sans-serif;
+    color: #748188;
+}
+
+.post-progress {
+    top: 0;
+    left: 13px;
+    position: relative;
+}
+
+.para {
+    margin: 20px 0px;
+    margin-left: 15px;
+}
+
+
+.post-progress {
+    position: relative;
+    top: 30px;
+}
